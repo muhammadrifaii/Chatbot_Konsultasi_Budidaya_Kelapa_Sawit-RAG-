@@ -1,0 +1,9 @@
+﻿.env
+.gradio/
+.vscode/
+chroma_db/
+db_csv/
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
